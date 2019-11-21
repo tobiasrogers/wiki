@@ -1,2 +1,2 @@
-# wiki
-My personal wiki
+# Initial page
+
