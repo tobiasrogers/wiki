@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Hello](README.md)
 * [Start here](start-here.md)
 * [Books](books.md)
 * [Weekly review](weekly-review.md)
