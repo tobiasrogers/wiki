@@ -10,6 +10,8 @@ I've recently become interested in building a second brain of notes, resources a
 
 [Brett Bivens](https://twitter.com/brettbivens) talks a lot about [creative compounding and "the digital Bannister effect"](https://twitter.com/brettbivens/status/1167411739153113090) which applies to knowledge as much as it does to sports. By making my learning public, I'm hoping I can accelerate my personal development in a similar way. 
 
+{% embed url="https://twitter.com/brettbivens/status/1167411739153113090" %}
+
 ## Who is this for?
 
 Really, this wiki is a place for me to curate my knowledge and make it shareable. Some of it probably won't make sense to everyone, but if other people get some value out of it, that's great. 
