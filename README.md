@@ -1,5 +1,5 @@
 ---
-description: 'My online, open source second brain'
+description: 'Welcome to my online, open source second brain'
 ---
 
 # Hello
