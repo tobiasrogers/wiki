@@ -16,7 +16,7 @@ I keep ongoing Twitter threads of [books I'm reading](https://twitter.com/tobias
 * Shoe Dog: A Memoir by the creator of NIKE
 * Hooked: How to Build Habit-forming Products
 * Nemesis: The Battle for Japan 1944-45
-* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts / 
+* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
 * Zero to One: Notes on Startups, or How to Build the Future
 
 ## Currently Reading
