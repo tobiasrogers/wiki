@@ -14,7 +14,9 @@ I’ve been writing for the web since the early days of Blogger with posts about
 
 I’m rapidly hurtling towards middle age but still stand at the front at gigs. I won’t turn into the bald fat man in the red BMW convertible.
 
-You can reach my via email at tobiasmrogers \(at gmail dot com\). Or find me on Twitter [@tobiasrogers](https://twitter.com/tobiasrogers) - my DMs are always open.
+You can reach me via email at tobiasmrogers \(at gmail dot com\). Or find me on Twitter [@tobiasrogers](https://twitter.com/tobiasrogers) - my DMs are always open.
 
-I publish a newsletter on [Substack](https://tobyrogers.substack.com/) about the big ideas in product management, productivity and personal growth I've been contemplating each week. I also blog using [Svbtle](https://svbtle.com/) at [blog.tobyrogers.pm](http://blog.tobyrogers.pm). 
+I publish a newsletter on [Substack](https://tobyrogers.substack.com/) about the big ideas in product management, productivity and personal growth I've been contemplating each week. 
+
+I also blog using [Svbtle](https://svbtle.com/) at [blog.tobyrogers.pm](http://blog.tobyrogers.pm). 
 
