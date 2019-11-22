@@ -6,7 +6,7 @@ description: 'My online, open source second brain'
 
 ## Why am I doing this?
 
-I've recently become interested in building a second brain of notes, resources and other useful information I can use to supercharge future projects. instead of keeping it all to myself in my notes app, I think there's real value in making it public. 
+I've recently become interested in building a second brain of notes, resources and other useful information I can use to supercharge future projects. Instead of keeping it all to myself in my notes app, I think there's real value in making my thinking public. 
 
 [Brett Bivens](https://twitter.com/brettbivens) talks a lot about [creative compounding and "the digital Bannister effect"](https://twitter.com/brettbivens/status/1167411739153113090) which applies to knowledge as much as it does to sports. By making my learning public, I'm hoping I can accelerate my personal development in a similar way. 
 
