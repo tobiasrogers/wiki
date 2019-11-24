@@ -24,6 +24,10 @@ description: >-
 
 > We create the garden as a sort of experience generator, capable of infinite expression and meaning.\[...\] building out a network of often conflicting information into a web that can generate insights, iterating it, allowing that to grow into something bigger than a single event, a single narrative, or single meaning.
 
+> Links are associative. This is a huge deal. Links are there not only as a quick way to get to source material. They aren’t a way to say, hey here’s the interesting thing of the day. They remind you of the questions you need to ask, of the connections that aren’t immediately evident.
+
+> Everybody wants to play in the Stream, but no one wants to build the Garden.
+
 This Twitter thread from Venkatesh Rao provides some more insight into the time/idea quality horizons shaping our digital knowledge \(which is quoted in [Tom Critchlow](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)'s article\): 
 
 {% embed url="https://twitter.com/vgr/status/1047925106423603200?s=20" %}
