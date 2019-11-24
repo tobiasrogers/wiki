@@ -28,7 +28,7 @@ description: >-
 
 > Everybody wants to play in the Stream, but no one wants to build the Garden.
 
-This Twitter thread from Venkatesh Rao provides some more insight into the time/idea quality horizons shaping our digital knowledge \(which is quoted in [Tom Critchlow](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)'s article\): 
+This Twitter thread from [Venkatesh Rao](https://twitter.com/vgr) provides some more insight into the time/idea quality horizons shaping our digital knowledge \(which is quoted in [Tom Critchlow](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)'s article\): 
 
 {% embed url="https://twitter.com/vgr/status/1047925106423603200?s=20" %}
 
