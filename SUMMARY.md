@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Hello](README.md)
-* [Start here](start-here.md)
-* [Books](books.md)
-* [Weekly review](weekly-review.md)
+* [hello](README.md)
+* [start here](start-here.md)
+* [books](books.md)
+* [weekly review](weekly-review.md)
 

@@ -2,7 +2,7 @@
 description: 'Welcome to my online, open source second brain'
 ---
 
-# Hello
+# hello
 
 ## Why am I doing this?
 

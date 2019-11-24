@@ -2,7 +2,7 @@
 description: I'm a binge reader
 ---
 
-# Books
+# books
 
 I read every day. Blog posts, short stories, novels, biographies, self-help books, business books, screenplays, graphic novels, comics, poetry \(well, maybe not poetry\); I consume millions of words every year.
 
