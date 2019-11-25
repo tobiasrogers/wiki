@@ -1,5 +1,5 @@
 ---
-description: Examples of cool GTD setups I like
+description: Links to some cool GTD setups I like
 ---
 
 # gtd setups
