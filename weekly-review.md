@@ -1,3 +1,7 @@
+---
+description: My weekly GTD review checklist.
+---
+
 # weekly review
 
 [David Allen](https://gettingthingsdone.com/) says if you're not doing your weekly review, you're not doing GTD. I've been updating and tweaking mine for more than a decade, but after reading [Tiago Forte's article on how he treats his as his operating system,](https://www.newsblur.com/newsletters/story/6798656:038a9c) I've settled on these steps \(for now, anyway\): 
