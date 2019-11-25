@@ -1,8 +1,8 @@
 ---
-description: Links to some cool GTD setups I like
+description: Links to some cool productivity setups I like
 ---
 
-# gtd setups
+# productivity setups
 
 * [http://rtalbert.org/the-current-state-of-my-gtd-tool-setup/](http://rtalbert.org/the-current-state-of-my-gtd-tool-setup/)
 
