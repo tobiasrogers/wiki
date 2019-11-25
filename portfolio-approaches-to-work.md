@@ -1,11 +1,13 @@
 ---
-description: We're witnessing the rise of a new kind of worker.
+description: The changing face of knowledge work in the digital age.
 ---
 
 # portfolio approaches to work
 
-In the future many knowledge workers won't be salaried employees of individual companies, they'll be full-stack freelancers managing their own portfolios of income streams: 
+In the future a significant proportion of knowledge workers won't be salaried employees of individual companies, they'll be full-stack freelancers managing their own portfolios of income streams: 
 
+> We’re witnessing the rise of a new kind of worker: the Full-Stack Freelancer.
+>
 > Full-Stack Freelancers respond to technology as an opportunity, not a threat. They leverage software-as-a-service and online platforms to vertically integrate a “full stack” of capabilities, instead of focusing on one narrow function. This allows them to capture a much greater percentage of the value they create, instead of giving it away to gatekeepers and distribution bottlenecks.
 >
 > Full-Stack Freelancers are responding to a series of technology-driven trends — contingent employment, intensifying globalization, and automation — by taking advantage of the other side of the coin: technology finally becoming powerful enough, cheap enough, and user-friendly enough to be deployed productively by a single individual.
