@@ -6,7 +6,7 @@ description: >-
 
 # digital streams, campfires and gardens
 
-[Tom Critchlow](https://twitter.com/tomcritchlow) summarises of how we can build different learning environments across different information consumption time horizons in his [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) blog post:
+[Tom Critchlow](https://twitter.com/tomcritchlow) summarises how we can build different learning environments across different information consumption time horizons:
 
 > Loosely speaking - streams are for fast twitch thinking and acting. Participating in the stream is a fast feedback loop, with a slightly longer undercurrent of connection building.
 >
@@ -16,7 +16,7 @@ description: >-
 
 > Gardens - This is the wiki layer. Curate, connect and explore information. Decades-spanning project of information sensemaking. [source](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 
-[Mike Caulfield](https://twitter.com/holden) also talks about digital gardens and streams in a lot more detail in his epic [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) article: 
+[Mike Caulfield](https://twitter.com/holden) also talks about digital gardens and streams in a lot more detail:
 
 > Just imagine that instead of blogging and tweeting your experience you wiki’d it. And over time the wiki became a representation of things you knew, connected to other people’s wikis about things they knew.
 
@@ -26,7 +26,7 @@ description: >-
 
 > Links are associative. This is a huge deal. Links are there not only as a quick way to get to source material. They aren’t a way to say, hey here’s the interesting thing of the day. They remind you of the questions you need to ask, of the connections that aren’t immediately evident.
 
-> Everybody wants to play in the Stream, but no one wants to build the Garden.
+> Everybody wants to play in the Stream, but no one wants to build the Garden. [source](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 
 This Twitter thread from [Venkatesh Rao](https://twitter.com/vgr) provides some more insight into the time/idea quality horizons shaping our digital knowledge \(which is quoted in [Tom Critchlow](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)'s article\): 
 
