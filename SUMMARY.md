@@ -5,4 +5,5 @@
 * [books](books.md)
 * [weekly review](weekly-review.md)
 * [digital streams, campfires and gardens](digital-streams-campfires-and-gardens.md)
+* [gtd setups](gtd-setups.md)
 
