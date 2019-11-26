@@ -9,4 +9,5 @@
 * [productivity setups](gtd-setups.md)
 * [books](books.md)
 * [weekly review](weekly-review.md)
+* [managing project responsibility](managing-project-responsibility.md)
 
