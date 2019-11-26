@@ -4,7 +4,7 @@ description: Approaches for managing the role each stakeholder has to play on a 
 
 # managing project responsibility
 
-A RASCI matrix is one of the best ways to keep track of each person's involvement with the deliverables for a project:
+A RASCI matrix is one of my preferred ways to keep track of each person's involvement with the deliverables for a project:
 
 > A RASCI matrix allows you to chart who is responsible for which aspect of a task on a project. For each task, a person can have one of five roles, which break down as follows:
 >
