@@ -8,6 +8,7 @@
 * [why startups fail](why-startups-fail.md)
 * [productivity setups](gtd-setups.md)
 * [managing project responsibility](managing-project-responsibility.md)
+* [achieving balance](achieving-balance.md)
 * [books](books.md)
 * [weekly review](weekly-review.md)
 
