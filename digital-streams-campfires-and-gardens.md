@@ -14,7 +14,9 @@ description: >-
 
 > Campfires - mostly blogging. A digital campfire \(or a series of campfires\) that are slower burn but fade relatively quickly over the timeframe of years. This builds muscle, articulates thinking and is the connective tissue between ideas, people and more.
 
-> Gardens - This is the wiki layer. Curate, connect and explore information. Decades-spanning project of information sensemaking. [source](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
+> Gardens - This is the wiki layer. Curate, connect and explore information. Decades-spanning project of information sensemaking.
+
+**Source:** [https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 
 [Mike Caulfield](https://twitter.com/holden) also talks about digital gardens and streams in a lot more detail:
 
@@ -26,11 +28,9 @@ description: >-
 
 > Links are associative. This is a huge deal. Links are there not only as a quick way to get to source material. They aren’t a way to say, hey here’s the interesting thing of the day. They remind you of the questions you need to ask, of the connections that aren’t immediately evident.
 
-> Everybody wants to play in the Stream, but no one wants to build the Garden. [source](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+> Everybody wants to play in the Stream, but no one wants to build the Garden.
 
-This Twitter thread from [Venkatesh Rao](https://twitter.com/vgr) provides some more insight into the time/idea quality horizons shaping our digital knowledge \(which is quoted in [Tom Critchlow](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)'s article\): 
-
-{% embed url="https://twitter.com/vgr/status/1047925106423603200?s=20" %}
+**Source:** [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 
 
 
