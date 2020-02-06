@@ -4,5 +4,5 @@ Interesting-ness is one of the most important factors for deciding what to work 
 
 You won't know what's going to be interesting to you personally until you find out more about it so you should just "go with the flow". DNA was only discovered because the team of researchers who discovered it let themselves follow the path of interesting-ness; their grant was actually to try and find a cure for cancer.
 
-Source: [https://praxis.fortelabs.co/how-to-take-smart-notes/ ](https://praxis.fortelabs.co/how-to-take-smart-notes/ )
+**Source:** [https://praxis.fortelabs.co/how-to-take-smart-notes/ ](https://praxis.fortelabs.co/how-to-take-smart-notes/ )
 
