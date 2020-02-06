@@ -7,4 +7,5 @@
 * [why startups fail](why-startups-fail.md)
 * [achieving balance](achieving-balance.md)
 * [work on things you find interesting](work-on-things-you-find-interesting.md)
+* [different types of notes](different-types-of-notes.md)
 
