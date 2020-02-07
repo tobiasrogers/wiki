@@ -8,4 +8,5 @@
 * [achieving balance](achieving-balance.md)
 * [work on things you find interesting](work-on-things-you-find-interesting.md)
 * [different types of notes](different-types-of-notes.md)
+* [Five phases of the technology hype cycle](five-phases-of-the-technology-hype-cycle.md)
 
