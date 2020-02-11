@@ -10,4 +10,5 @@
 * [Different types of notes](different-types-of-notes.md)
 * [The technology hype cycle](five-phases-of-the-technology-hype-cycle.md)
 * [The natural planning model](the-natural-planning-model.md)
+* [Intermediate packets](intermediate-packets.md)
 
