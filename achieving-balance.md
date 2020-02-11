@@ -2,7 +2,7 @@
 description: It takes a village to keep those Kardashians looking that sultry.
 ---
 
-# Achieving balance
+# achieving balance
 
 [Julie Zhuo](https://www.juliezhuo.com/) argues that work-life balance comes from defining your priorities then letting them guide your daily actions: 
 

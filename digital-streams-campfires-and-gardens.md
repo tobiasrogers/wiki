@@ -4,7 +4,7 @@ description: >-
   campfires and gardens.
 ---
 
-# Digital streams, campfires and gardens
+# digital streams, campfires and gardens
 
 [Tom Critchlow](https://twitter.com/tomcritchlow) summarises how we can build different learning environments across different information consumption time horizons:
 

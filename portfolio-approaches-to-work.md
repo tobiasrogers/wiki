@@ -2,7 +2,7 @@
 description: The changing face of knowledge work in the digital age.
 ---
 
-# Portfolio approaches to work
+# portfolio approaches to work
 
 In the future a significant proportion of knowledge workers won't be salaried employees of individual companies, they'll be full-stack freelancers managing their own portfolios of income streams: 
 

@@ -2,7 +2,7 @@
 description: Reasons why nine out of ten startups don't succeed.
 ---
 
-# Why startups fail
+# why startups fail
 
 The number one reason startups fail is lack of market need for the product: 
 

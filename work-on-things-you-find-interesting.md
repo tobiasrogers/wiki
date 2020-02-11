@@ -1,4 +1,4 @@
-# Work on things you find interesting
+# work on things you find interesting
 
 Interesting-ness is one of the most important factors for deciding what to work on. In his summary of Sonke Ahren's How To Take Smart Notes, Tiago Forte references the fact that one of the main reasons students fail at learning is because they lose connection with what they're learning about.
 

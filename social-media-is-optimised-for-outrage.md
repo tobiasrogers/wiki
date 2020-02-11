@@ -2,7 +2,7 @@
 description: What’s good for capturing human attention is often bad for humans.
 ---
 
-# Social media is optimised for outrage
+# social media is optimised for outrage
 
 The way our social media feeds are sorted algorithmically means they're optimised to show us content we'll engage with which is often content we'll have an emotional reaction about: 
 
