@@ -1,4 +1,4 @@
-# different types of notes
+# Different types of notes
 
 _There are four different types of notes:_
 

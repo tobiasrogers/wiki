@@ -2,7 +2,7 @@
 description: 'Welcome to my online, open source zettelkasten'
 ---
 
-# hello
+# Hello
 
 ## Why am I doing this?
 

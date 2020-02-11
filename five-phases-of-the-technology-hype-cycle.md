@@ -6,15 +6,25 @@ The hype cycle has five phases that represent a new technology's life cycle:
 
 ![Source: https://www.gartner.com/en/research/methodologies/gartner-hype-cycle](.gitbook/assets/hype_cycle.jpg)
 
-**Technology trigger:**A potential technology breakthrough kicks everything off. No usable products usually exist  at this stage and there's no proven commercial viability, but proof-of-concept stories and media interest generate publicity.
+**Innovation Trigger:**
 
-**Peak of inflated expectations:**Early publicity leads to some success stories \(and a load of failures\). Some companies take action but most don't
+A potential technology breakthrough kicks everything off. No usable products usually exist  at this stage and there's no proven commercial viability, but proof-of-concept stories and media interest generate publicity.
 
-**Trough of disillusionment:**Interest starts to wane as early experiments and implementations fail. Producers of the technology get out or give up. Investment only continues if providers are able to improve their products for their early adopters
+**Peak of Inflated Expectations:**
 
-**Slope of enlightenment:**New instances of the technological benefit start to emerge and become more widely understood. Second and third generation products start to appear. Enterprises begin to fund pilots but conservative companies remain pretty cautious.
+Early publicity leads to some success stories \(and a load of failures\). Some companies take action but most don't
 
-**Plateau of productivity:**Mainstream adoption takes off. Market applicability and relevance are starting to pay off. If the technology has applications beyond its initial niche market then it will continue to grow.
+**Trough of Disillusionment:**
+
+Interest starts to wane as early experiments and implementations fail. Producers of the technology get out or give up. Investment only continues if providers are able to improve their products for their early adopters
+
+**Slope of Enlightenment:**
+
+New instances of the technological benefit start to emerge and become more widely understood. Second and third generation products start to appear. Enterprises begin to fund pilots but conservative companies remain pretty cautious.
+
+**Plateau of Productivity:**
+
+Mainstream adoption takes off. Market applicability and relevance are starting to pay off. If the technology has applications beyond its initial niche market then it will continue to grow.
 
 **Source:** [https://en.m.wikipedia.org/wiki/Hype\_cycle](https://en.m.wikipedia.org/wiki/Hype_cycle)
 
