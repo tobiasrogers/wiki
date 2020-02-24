@@ -17,7 +17,9 @@ Each Zettel should include the following elements:
 
 The Content section contains the idea the Zettel is describing, the Links section contains links to other related Zettels within your Zettelkasten, the Source\(s\) section includes bibliographical info of the source of the idea plus links to external online sources. 
 
-**SOURCE:** [https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten)
+**SOURCE:**
+
+\*\*\*\*[https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten)
 
 **RELATED PAGES:** 
 
