@@ -8,3 +8,9 @@ Rather than having predetermined categories, notes in a Zettelkasten are stored 
 
 **SOURCE:**[ https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/]( https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
 
+**RELATED PAGES:** 
+
+{% page-ref page="structuring-individual-zettels.md" %}
+
+
+

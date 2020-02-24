@@ -8,8 +8,8 @@ Each Zettel should include the following elements:
 
 1. Metadata
 2. Content
-3. Links
-4. Source\(s\)
+3. Source\(s\)
+4. Related Pages
 
 [@trmsme](https://twitter.com/trmsme) recommends starting Zettels in a way that's similar to Wikipedia articles: 
 
@@ -17,9 +17,9 @@ Each Zettel should include the following elements:
 
 The Content section contains the idea the Zettel is describing, the Links section contains links to other related Zettels within your Zettelkasten, the Source\(s\) section includes bibliographical info of the source of the idea plus links to external online sources. 
 
-R**ELATED:** 
+**SOURCE:** [https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten)
+
+**RELATED PAGES:** 
 
 {% page-ref page="the-zettelkasten-method.md" %}
-
-**SOURCE:** [https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten)
 
