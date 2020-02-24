@@ -23,5 +23,5 @@ The Content section contains the idea the Zettel is describing, the Links sectio
 
 **SOURCE:**
 
-\*\*\*\*[https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten)
+\*\*\*\*[**Some Thoughts on How to Keep a Zettelkasten**](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten/)\*\*\*\*
 

@@ -12,7 +12,7 @@ Rather than having predetermined categories, notes in a Zettelkasten are stored 
 
 **SOURCE:**
 
-\*\*\*\*[ https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/]( https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
+[**Create a Zettelkasten for your Notes to Improve Writing and Thinking**](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)\*\*\*\*
 
 
 
