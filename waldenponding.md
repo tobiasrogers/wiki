@@ -1,6 +1,6 @@
 # Waldenponding
 
-_**Waldenponding** is a term coined by writer and management consultant Venkatesh Rao to describe various levels of retreating from technology . The concept is taken from the book Walden by Henry David Thoreau where Thoreau extols the virtues of retreating from social contact and living a quieter life at Walden Pond._ 
+_**Waldenponding** is a term coined by writer and management consultant Venkatesh Rao to describe various levels of retreating from technology. The concept is taken from the book Walden by Henry David Thoreau where Thoreau extols the virtues of retreating from social contact and living a quieter life at Walden Pond._ 
 
 Waldenponding describes the act of dealing with our technology and data-rich world by disconnecting through the digital detoxes, deleting Facebook and dumbing down our smartphones. Or, as Rao puts it: 
 
