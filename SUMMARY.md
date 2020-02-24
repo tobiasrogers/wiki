@@ -8,4 +8,5 @@
 * [The technology hype cycle](the-technology-hype-cycle.md)
 * [Creative compounding](creative-compounding.md)
 * [Release early, release often](release-early-release-often.md)
+* [Waldenponding](waldenponding.md)
 
