@@ -12,6 +12,8 @@ Rather than having predetermined categories, notes in a Zettelkasten are stored 
 
 {% page-ref page="structuring-individual-zettels.md" %}
 
+#### ...
+
 #### SOURCE:
 
 [**Create a Zettelkasten for your Notes to Improve Writing and Thinking**](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)\*\*\*\*
