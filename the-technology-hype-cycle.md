@@ -1,6 +1,6 @@
 # The technology hype cycle
 
-The **technology hype cycle** is a graph developed by the American research firm [Gartner](https://www.gartner.com/en) to explain the maturity, adoption and social application of new technologies.
+_The **technology hype cycle** is a graph developed by the American research firm_ [_Gartner_](https://www.gartner.com/en) _to explain the maturity, adoption and social application of new technologies._
 
 The hype cycle has five phases that represent a new technology's life cycle:  
   
