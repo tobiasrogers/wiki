@@ -2,11 +2,11 @@
 description: 'Welcome to my online, open source zettelkasten'
 ---
 
-# hello
+# Hello
 
 ## Why am I doing this?
 
-I've recently become interested in creating a digital zettelkasten I can use to supercharge future projects. Instead of keeping it all to myself in my notes app, I think there's real value in making my thinking public. 
+I've recently become interested in creating a digital Zettelkasten I can use to supercharge future projects. Instead of keeping everything to myself in my notes app, I think there's real value in making my thinking public. 
 
 [Brett Bivens](https://twitter.com/brettbivens) talks a lot about [creative compounding and "the digital Bannister effect"](https://twitter.com/brettbivens/status/1167411739153113090) which applies to knowledge as much as it does to sports. By making my learning public, I'm hoping I can accelerate my personal growth in a similar way. 
 
