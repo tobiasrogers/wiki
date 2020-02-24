@@ -6,4 +6,5 @@
 * [Intermediate packets](intermediate-packets.md)
 * [The natural planning model](the-natural-planning-model.md)
 * [The technology hype cycle](the-technology-hype-cycle.md)
+* [Creative compounding](creative-compounding.md)
 
