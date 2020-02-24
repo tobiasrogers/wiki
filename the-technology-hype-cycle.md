@@ -25,7 +25,7 @@ New instances of the technological benefit start to emerge and become more widel
 Mainstream adoption takes off. Market applicability and relevance are starting to pay off. If the technology has applications beyond its initial niche market then it will continue to grow.  
 
 
-#### **SOURCE:**
+**SOURCE:**
 
 \*\*\*\*[**Hype cycle**](https://en.m.wikipedia.org/wiki/Hype_cycle)\*\*\*\*
 
