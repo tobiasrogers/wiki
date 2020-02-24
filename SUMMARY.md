@@ -10,4 +10,5 @@
 * [Release early, release often](release-early-release-often.md)
 * [Waldenponding](waldenponding.md)
 * [Against Waldenponding](against-waldenponding.md)
+* [Developing the situation](developing-the-situation.md)
 
