@@ -10,6 +10,10 @@ Creating and sharing intermediate packets lets knowledge workers deliver valu
 
 {% page-ref page="creative-compounding.md" %}
 
+{% page-ref page="release-early-release-often.md" %}
+
+
+
 **SOURCE**: 
 
 [**Bending the Curves of Productivity**](https://medium.com/praxis-blog/bending-the-curves-of-productivity-25edb268672f)\*\*\*\*

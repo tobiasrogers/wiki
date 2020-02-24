@@ -10,6 +10,8 @@ By sharing the creative process as it happens via YouTube channels, Twitter thre
 
 {% page-ref page="intermediate-packets.md" %}
 
+{% page-ref page="release-early-release-often.md" %}
+
 **SOURCE:** 
 
 \*\*\*\*[**Creative Compounding**](https://brettbivens.com/2019/08/30/creative-compounding/)\*\*\*\*
