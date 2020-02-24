@@ -10,9 +10,15 @@ Rao suggests there are varying degrees of Waldenponding, from hard \(completely 
 
 #### LINKS: 
 
+{% page-ref page="against-waldenponding.md" %}
+
 {% page-ref page="intermediate-packets.md" %}
 
 {% page-ref page="creative-compounding.md" %}
+
+{% page-ref page="release-early-release-often.md" %}
+
+
 
 #### SOURCE: 
 
