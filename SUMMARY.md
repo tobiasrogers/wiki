@@ -11,4 +11,5 @@
 * [Waldenponding](waldenponding.md)
 * [Against Waldenponding](against-waldenponding.md)
 * [Developing the situation](developing-the-situation.md)
+* [Premium mediocre](premium-mediocre.md)
 
