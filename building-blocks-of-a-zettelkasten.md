@@ -9,10 +9,8 @@
   
 As a system, that looks like: 
 
-  
-![](https://www.evernote.com/shard/s14/res/092a8cfb-25a4-423a-ab34-e2b2e567c697)  
-  
-  
+![](.gitbook/assets/201405161618_zk_flow.jpg)
+
 The inbox, then, is similar to a GTD inbox, but for your non-actionable info: 
 
 * Observations
@@ -38,6 +36,8 @@ Project notes straddle a line between fleeting and permanent \(in that they're p
 {% page-ref page="the-zettelkasten-method.md" %}
 
 {% page-ref page="structuring-individual-zettels.md" %}
+
+{% page-ref page="intermediate-packets.md" %}
 
 **SOURCE:**
 
