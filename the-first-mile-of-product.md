@@ -2,7 +2,7 @@
 
 _**The first mile of product** is a term coined by Behance founder and Adobe Chief Product Officer Scott Belsky to describe a user's first experience of a new product._ 
 
-The first mile is often neglected by a tendency to gravitate towards your best customers, but if you want to build products that millions \(or even hundreds of millions\) of people use, then you've got to prioritize the first user experience. 
+The first mile is often neglected as a result of the tendency to gravitate towards your best customers. But if you want to build products that millions \(or even hundreds of millions\) of people use, then you've got to prioritize the first user experience. 
 
 A failed first mile cripples a product. You may get loads of downloads or sign-ups, but very few customers will get onboarded to the point where they know: 
 
