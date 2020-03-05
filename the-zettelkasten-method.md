@@ -6,11 +6,15 @@ The basic principle of the Zettelkasten method is to store individual ideas in 
 
 Rather than having predetermined categories, notes in a Zettelkasten are stored in a loose structure \(e.g. by date, title or ID order\) that encourages "relatedness" to serendipitously emerge as ideas are interacted with. 
 
-**LINKS:**
+**RELATED:**
+
+{% page-ref page="building-blocks-of-a-zettelkasten.md" %}
 
 {% page-ref page="structuring-individual-zettels.md" %}
 
-#### SOURCE:
+{% page-ref page="four-kinds-of-notes.md" %}
+
+**SOURCE:**
 
 [**Create a Zettelkasten for your Notes to Improve Writing and Thinking**](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)\*\*\*\*
 

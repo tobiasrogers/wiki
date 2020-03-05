@@ -6,7 +6,7 @@ Rao argues that being plugged in is good and that there's valuable information a
 
 Rather than disconnecting, what you should be doing \(according to Rao\) is learning to float between consuming information at different levels of latency and train your attention accordingly. In order to be successful in the digital age you have to be able to consume and act on information at all levels in a time-bound, temporally constrained way. If you disconnect entirely then you'll be left behind. 
 
-#### LINKS: 
+#### RELATED: 
 
 {% page-ref page="waldenponding.md" %}
 

@@ -8,7 +8,7 @@ Waldenponding describes the act of dealing with our technology and data-rich wor
 
 Rao suggests there are varying degrees of Waldenponding, from hard \(completely disconnecting from the digital world\) to soft \(installing an app like Forest\), but all fail to take into account the idea that retreating from information flows is just a different way of having your attention hacked by others. 
 
-#### LINKS: 
+#### RELATED: 
 
 {% page-ref page="against-waldenponding.md" %}
 
