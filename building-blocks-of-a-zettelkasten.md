@@ -1,6 +1,6 @@
 # Building blocks of a Zettelkasten
 
-**The building blocks of a Zettelkasten** are three related parts; inbox, archive and reference database:
+_**The building blocks of a Zettelkasten** are three related parts; inbox, archive and reference database:_
 
 1. Inbox: the gateway into your knowledge system
 2. Archive: the one, trusted place to look for information
@@ -37,7 +37,7 @@ Project notes straddle a line between fleeting and permanent \(in that they're p
 
 {% page-ref page="structuring-individual-zettels.md" %}
 
-{% page-ref page="intermediate-packets.md" %}
+{% page-ref page="four-kinds-of-notes.md" %}
 
 **SOURCE:**
 
