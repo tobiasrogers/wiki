@@ -12,4 +12,7 @@
 * [Against Waldenponding](against-waldenponding.md)
 * [Developing the situation](developing-the-situation.md)
 * [Premium mediocre](premium-mediocre.md)
+* [Building blocks of a Zettelkasten](building-blocks-of-a-zettelkasten.md)
+* [Four kinds of notes](four-kinds-of-notes.md)
+* [Life as a finite or infinite game](life-as-a-finite-or-infinite-game.md)
 
