@@ -19,4 +19,5 @@
 * [The red queen effect](the-red-queen-effect.md)
 * [Falsification](falsification.md)
 * [Confirmation bias](confirmation-bias.md)
+* [Do something syndrome](do-something-syndrome.md)
 
