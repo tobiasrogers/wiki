@@ -8,7 +8,7 @@ Related to the orientation phase of the OODA loop, developing the situation take
 
 {% page-ref page="the-red-queen-effect.md" %}
 
-{% page-ref page="life-as-a-finite-or-infinite-game.md" %}
+{% page-ref page="do-something-syndrome.md" %}
 
 #### SOURCE: 
 
