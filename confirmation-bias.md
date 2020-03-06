@@ -6,7 +6,7 @@ We naturally seek to confirm our existing beliefs, rather than question them or 
 
 According to Ziva Kunda, we give special weight to information that allows us to come to the conclusion we want to reach. Accepting information that confirms our beliefs is easy and requires little mental energy. It's much harder to question our beliefs and actively seek out information that disproves them. 
 
-Confirmation bias is such an ingrained cognitive shortcut  that our general assimilation of information is subject to deep bias based on our worldview. As a result, we subconsciously see more evidence that supports our views. We need to learn to stop ignoring contradictory evidence and get better at thinking critically about our existing beliefs. 
+Confirmation bias is such an ingrained cognitive shortcut  that our general assimilation of information is subject to deep bias based on our worldview. As a result, we're drawn subconsciously to evidence that supports it. We need to learn to stop ignoring contradictory evidence and get better at thinking critically about our existing beliefs. 
 
 **RELATED:** 
 
