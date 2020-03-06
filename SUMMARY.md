@@ -18,4 +18,5 @@
 * [The first mile of product](the-first-mile-of-product.md)
 * [The red queen effect](the-red-queen-effect.md)
 * [Falsification](falsification.md)
+* [Confirmation bias](confirmation-bias.md)
 
