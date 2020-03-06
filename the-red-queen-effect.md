@@ -4,7 +4,7 @@ _**The red queen effect** is mental model that takes its name from Lewis Carroll
 
 The core premise of the Red Queen Effect is that complacency leads to falling behind. To survive another day, we need to run fast and hard, and co-evolve with the systems we interact with. Regardless of our role, we're all embedded in our own Red Queen battle. We need to find ways to run smarter so we can keep moving forward. 
 
-A concept often used in evolutionary biology, finance and business, The Red Queen Effect can also be applied to personal development and growth. If we want to retain our competitive advantage, we've got to ensure we're continually moving forwards \(by developing the situation and working out ways to keep playing the infinite game of life\). 
+A concept often used in evolutionary biology, finance and business, The Red Queen Effect can also be applied to personal development and growth. If we want to retain our competitive advantage, we've got to ensure we're continually moving forwards, by developing our situation and working out new ways to keep playing the infinite game of life. 
 
 **RELATED:** 
 
