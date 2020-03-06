@@ -8,6 +8,8 @@ A concept often used in evolutionary biology, finance and business, The Red Quee
 
 **RELATED:** 
 
+{% page-ref page="do-something-syndrome.md" %}
+
 {% page-ref page="developing-the-situation.md" %}
 
 {% page-ref page="life-as-a-finite-or-infinite-game.md" %}
