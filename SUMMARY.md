@@ -22,4 +22,5 @@
 * [Do something syndrome](do-something-syndrome.md)
 * [Feedback loops](feedback-loops.md)
 * [Causation vs correlation](causation-vs-correlation.md)
+* [Finding focus on a project](finding-focus-on-a-project.md)
 
