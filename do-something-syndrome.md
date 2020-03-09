@@ -8,12 +8,12 @@ Often we mistake the actions we take for the things we really want to accomplish
 
 Doing something isn't the same as getting results. The problem is we often believe that doing something or doing nothing are our only options. We forget that there's a third option; gathering more information. We'd be much better off if we stopped for a moment before acting. 
 
-**RELATED:**  __
+**Related:**  __
 
 * \*\*\*\*[**The red queen effect**](the-red-queen-effect.md)\*\*\*\*
 * \*\*\*\*[**Developing the situation**](developing-the-situation.md)\*\*\*\*
 
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**Do Something Syndrome: When Movement Trumps Results**](https://fs.blog/2015/06/do-something-syndrome/)\*\*\*\*
 
