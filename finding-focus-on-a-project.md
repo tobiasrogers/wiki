@@ -1,6 +1,6 @@
 # Finding focus on a project
 
-_Facebook's VP of Product, Fidji SImo, asks the following questions to help **find focus on a project**:_ 
+_Facebook's VP of Product, Fidji Simo, asks the following questions to help **find focus on a project**:_ 
 
 1. What is the main problem this product is solving? 
 2. Who are the people we are solving this problem for? 
