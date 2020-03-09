@@ -8,6 +8,10 @@ _Facebook's VP of Product, Fidji SImo, asks the following questions to help **fi
 4. Is this particular implementation aligned with the problem we're solving for? 
 5. Is this the product/feature most likely to successfully solve the problem? 
 
+**RELATED:** 
+
+{% page-ref page="aligning-actions-with-intention.md" %}
+
 **SOURCE:** 
 
 \*\*\*\*[**How Facebook's VP of Product Finds Focus and Creates Conditions for Intentional Work**](https://firstround.com/review/how-facebooks-vp-of-product-finds-focus-and-creates-conditions-for-intentional-work/)\*\*\*\*
