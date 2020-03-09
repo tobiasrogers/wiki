@@ -1,6 +1,8 @@
 # Aligning actions with intention
 
-_Facebook's VP of Product, Fidji Simo, blocks off 30—60 minutes on her calendar every Monday morning to ensure she's **aligning actions with intention**. She does this by asking herself the following questions:_ 
+_Facebook's VP of Product, Fidji Simo, blocks off 30—60 minutes on her calendar every Monday morning to ensure she's **aligning actions with intention**._ 
+
+Simo's meeting has a set agenda to help her find focus and clarify her objectives for the coming week: 
 
 1. List the broader team or organization's priorities
 2. Check that your personal priorities for the week still align with those priorities
