@@ -21,4 +21,5 @@
 * [Confirmation bias](confirmation-bias.md)
 * [Do something syndrome](do-something-syndrome.md)
 * [Feedback loops](feedback-loops.md)
+* [Causation vs correlation](causation-vs-correlation.md)
 
