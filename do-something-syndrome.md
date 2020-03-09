@@ -6,7 +6,7 @@ Movement offers shelter from failure. When you're moving, you feel like you're h
 
 Often we mistake the actions we take for the things we really want to accomplish. We read diet books instead of dieting, we learn how to use Spotify instead of starting a store. By confusing preparation with end results, we trick ourselves into thinking we're achieving success. 
 
-Doing something isn't the same as getting results. The problem is we often believe that doing something or doing nothing are our only options. We forget that there's a third option; gathering more information. We'd be much better off if we stopped for a moment to develop the situation before acting. 
+Doing something isn't the same as getting results. The problem is we often believe that doing something or doing nothing are our only options. We forget that there's a third option; gathering more information. We'd be much better off if we stopped for a moment to [develop the situation](developing-the-situation.md) before acting. See also [The Red Queen Effect](the-red-queen-effect.md). 
 
 **RELATED:** 
 
