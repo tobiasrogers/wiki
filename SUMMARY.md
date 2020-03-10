@@ -24,4 +24,5 @@
 * [Causation vs correlation](causation-vs-correlation.md)
 * [Finding focus on a project](finding-focus-on-a-project.md)
 * [Aligning actions with intention](aligning-actions-with-intention.md)
+* [Black swan theory](black-swan-theory.md)
 
