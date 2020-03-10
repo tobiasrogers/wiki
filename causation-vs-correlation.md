@@ -6,7 +6,7 @@ The correlation coefficient is a measure between -1 and 1 of the relative weight
 
 Just because two different measures have a correlation, it doesn't mean that one causes the other. When correlation is imperfect, extremes will soften over time regardless of any additional action \(regression to the mean\) which can often be mistakenly diagnosed as causation when the effect would have happened anyway. 
 
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**Causation vs Correlation**](https://fs.blog/causation-vs-correlation/)\*\*\*\*
 

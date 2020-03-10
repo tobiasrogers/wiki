@@ -13,17 +13,19 @@ Each Zettel should include the following elements:
 
 [@trmsme](https://twitter.com/trmsme) recommends starting Zettels in a way that's similar to Wikipedia articles: 
 
-> Have you ever noticed that Wikipedia articles always start with one sentence which repeats the title of the article and explains, in that one sentence only, what the item described by the article is? It is only after that point that background information, context, and examples are provided to increase understanding.
+> Have you ever noticed that Wikipedia articles always start with one sentence which repeats the title of the article and explains, in that one sentence only, what the item described by the article is? It is only after that point that background information, context, and examples are provided to increase understanding. [Source ](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten)
 
 The Content section contains the idea the Zettel is describing, the Links section contains links to other related Zettels within your Zettelkasten, the Source\(s\) section includes bibliographical info of the source of the idea plus links to external online sources. 
 
-#### **Related:**
+#### **RELATED:** 
 
-* \*\*\*\*[**The Zettelkasten method**](the-zettelkasten-method.md)\*\*\*\*
-* \*\*\*\*[**Building blocks of a Zettelkasten**](building-blocks-of-a-zettelkasten.md)\*\*\*\*
-* \*\*\*\*[**Four kinds of notes**](four-kinds-of-notes.md)\*\*\*\*
+{% page-ref page="the-zettelkasten-method.md" %}
 
-**Source:**
+{% page-ref page="building-blocks-of-a-zettelkasten.md" %}
+
+{% page-ref page="four-kinds-of-notes.md" %}
+
+**SOURCE:**
 
 \*\*\*\*[**Some Thoughts on How to Keep a Zettelkasten**](https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten/)\*\*\*\*
 

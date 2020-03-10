@@ -8,15 +8,13 @@ The core premise of the Red Queen Effect is that complacency leads to falling be
 
 A concept often used in evolutionary biology, finance and business, The Red Queen Effect can also be applied to personal development and growth. If we want to retain our competitive advantage, we've got to ensure we're continually moving forwards, by developing our situation and working out new ways to keep playing the infinite game of life. 
 
-**RELATED:** 
+**Related:**
 
-{% page-ref page="do-something-syndrome.md" %}
+* \*\*\*\*[**Do something syndrome**](do-something-syndrome.md)\*\*\*\*
+* \*\*\*\*[**Developing the situation**](developing-the-situation.md)\*\*\*\*
+* \*\*\*\*[**Life as a finite or infinite game**](life-as-a-finite-or-infinite-game.md) ****
 
-{% page-ref page="developing-the-situation.md" %}
-
-{% page-ref page="life-as-a-finite-or-infinite-game.md" %}
-
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**The Red Queen Effect: Avoid Running Faster and Faster Only to Stay in the Same Place**](https://fs.blog/2012/10/the-red-queen-effect/)\*\*\*\*
 

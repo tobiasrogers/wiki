@@ -14,13 +14,12 @@ They way you play also impacts on how you think about the game. As Carse explain
 
 > The finite play for life is serious; the infinite play of life is joyous.
 
-**RELATED:** 
+**Related:**
 
-{% page-ref page="developing-the-situation.md" %}
+* \*\*\*\*[**Developing the situation**](developing-the-situation.md)\*\*\*\*
+* \*\*\*\*[**The red queen effect**](the-red-queen-effect.md)\*\*\*\*
 
-{% page-ref page="the-red-queen-effect.md" %}
-
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**Finite and Infinite Games: Two Ways to Play the Game of Life**](https://fs.blog/2020/02/finite-and-infinite-games-two-ways-to-play-the-game-of-life/)\*\*\*\*
 

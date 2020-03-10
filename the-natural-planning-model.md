@@ -20,7 +20,7 @@ David Allen describes any other planning process as "unnatural" and adds:
 
 Allen's TEDx Talk on [Getting In Control and Creating Space](https://www.youtube.com/watch?v=kOSFxKaqOm4&t=861s) is an excellent introduction to the model.
 
-#### **SOURCE:** 
+#### **Source:** 
 
 [**Getting Things Done: How to Achieve Stress-free Productivity**](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 

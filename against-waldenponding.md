@@ -6,17 +6,14 @@ Rao argues that being plugged in is good and that there's valuable information a
 
 Rather than disconnecting, what you should be doing \(according to Rao\) is learning to float between consuming information at different levels of latency and train your attention accordingly. In order to be successful in the digital age you have to be able to consume and act on information at all levels in a time-bound, temporally constrained way. If you disconnect entirely then you'll be left behind. 
 
-#### RELATED: 
+#### Related: 
 
-{% page-ref page="waldenponding.md" %}
+* \*\*\*\*[**Waldenponding**](waldenponding.md)\*\*\*\*
+* \*\*\*\*[**Creative compounding**](creative-compounding.md)\*\*\*\*
+* \*\*\*\*[**Intermediate packets**](intermediate-packets.md)\*\*\*\*
+* \*\*\*\*[**Release early, release often**](release-early-release-often.md)\*\*\*\*
 
-{% page-ref page="creative-compounding.md" %}
-
-{% page-ref page="intermediate-packets.md" %}
-
-{% page-ref page="release-early-release-often.md" %}
-
-#### SOURCE: 
+#### Source: 
 
 \*\*\*\*[**Against Waldenponding**](https://breakingsmart.substack.com/p/against-waldenponding)\*\*\*\*
 

@@ -8,19 +8,14 @@ Waldenponding describes the act of dealing with our technology and data-rich wor
 
 Rao suggests there are varying degrees of Waldenponding, from hard \(completely disconnecting from the digital world\) to soft \(installing an app like Forest\), but all fail to take into account the idea that retreating from information flows is just a different way of having your attention hacked by others. 
 
-#### RELATED: 
+#### Related: 
 
-{% page-ref page="against-waldenponding.md" %}
+* \*\*\*\*[**Against Waldenponding**](against-waldenponding.md)\*\*\*\*
+* \*\*\*\*[**Intermediate packets**](intermediate-packets.md)\*\*\*\*
+* \*\*\*\*[**Creative compounding**](creative-compounding.md)\*\*\*\*
+* \*\*\*\*[**Release early, release often** ](release-early-release-often.md)\*\*\*\*
 
-{% page-ref page="intermediate-packets.md" %}
-
-{% page-ref page="creative-compounding.md" %}
-
-{% page-ref page="release-early-release-often.md" %}
-
-
-
-#### SOURCE: 
+**Source:** 
 
 \*\*\*\*[**Why is this interesting? – the Waldenponding Edition**](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-waldenponding)\*\*\*\*
 

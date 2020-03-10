@@ -27,7 +27,7 @@ As Scott Belsky says:
 
 The first mile is a critical component of your product's long-term success needs to be the most thought-out part of your product, not an afterthought. 
 
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**Crafting The First Mile of Product**](https://medium.com/positiveslope/crafting-the-first-mile-of-product-7ed25e8f1027)\*\*\*\*
 

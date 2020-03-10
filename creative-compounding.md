@@ -6,17 +6,14 @@ Using the example of high school and college basketball teams, Bivens explains h
 
 By sharing the creative process as it happens via YouTube channels, Twitter threads and Instagram posts, feedback can be invited far earlier than it would have in the past, thereby creating a flywheel that enhances the compounding effect. 
 
-#### RELATED: 
+#### Related: 
 
-{% page-ref page="intermediate-packets.md" %}
+* \*\*\*\*[**Intermediate packets**](intermediate-packets.md)\*\*\*\*
+* \*\*\*\*[**Release early, release often**](release-early-release-often.md)\*\*\*\*
+* \*\*\*\*[**Waldenponding**](waldenponding.md)\*\*\*\*
+* \*\*\*\*[**Against Waldenponding**](against-waldenponding.md)\*\*\*\*
 
-{% page-ref page="release-early-release-often.md" %}
-
-{% page-ref page="waldenponding.md" %}
-
-{% page-ref page="against-waldenponding.md" %}
-
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**Creative Compounding**](https://brettbivens.com/2019/08/30/creative-compounding/)\*\*\*\*
 

@@ -10,7 +10,7 @@ According to William Lidwell, Jill Butler and Kritina Holden in [Universal Princ
 
 One of the key lessons of feedback loops is that all things are connected—changing one variable in a system will affect other variables in that system and other associated systems. 
 
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**Mental Model: Feedback Loops**](https://fs.blog/2011/10/mental-model-feedback-loops/)\*\*\*\*
 

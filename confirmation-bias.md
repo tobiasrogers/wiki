@@ -8,11 +8,11 @@ According to Ziva Kunda, we give special weight to information that allows us to
 
 Confirmation bias is such an ingrained cognitive shortcut  that our general assimilation of information is subject to deep bias based on our worldview. As a result, we're drawn subconsciously to evidence that supports it. We need to learn to stop ignoring contradictory evidence and get better at thinking critically about our existing beliefs. 
 
-**RELATED:** 
+**Related:** 
 
-{% page-ref page="falsification.md" %}
+* \*\*\*\*[**Falsification**](falsification.md)\*\*\*\*
 
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**Confirmation Bias And the Power of Disconfirming Evidence**](https://fs.blog/2017/05/confirmation-bias/)\*\*\*\*
 

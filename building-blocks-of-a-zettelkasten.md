@@ -31,15 +31,13 @@ The inbox is the place for fleeting notes whereas the notes archive is where per
 
 Project notes straddle a line between fleeting and permanent \(in that they're permanent only as long as their related project is in progress\) so could have their own section. Alternatively, they could exist outside the Zettelkasten entirely in "outflow" section of the diagram. 
 
-**RELATED:**
+**Related:**
 
-{% page-ref page="the-zettelkasten-method.md" %}
+* \*\*\*\*[**The Zettelkasten method**](the-zettelkasten-method.md)\*\*\*\*
+* \*\*\*\*[**Structuring individual Zettels**](structuring-individual-zettels.md)\*\*\*\*
+* \*\*\*\*[**Four kinds of notes**](four-kinds-of-notes.md)\*\*\*\*
 
-{% page-ref page="structuring-individual-zettels.md" %}
-
-{% page-ref page="four-kinds-of-notes.md" %}
-
-**SOURCE:**
+**Source:**
 
 \*\*\*\*[**Building Blocks of a Zettelkasten**](https://zettelkasten.de/posts/zettelkasten-building-blocks/)\*\*\*\*
 

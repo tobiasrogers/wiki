@@ -18,15 +18,13 @@ Each permanent note contains one idea, explained fully, in complete sentences. P
 
 These are notes that are made for a specific project. They could be notes that collect all the relevant permanent notes for an article or paper, notes created as part of the project planning process, or reference notes. These notes are usually thrown away once a project is completed.
 
-**RELATED:** 
+**Related:**
 
-{% page-ref page="the-zettelkasten-method.md" %}
+* \*\*\*\*[**The Zettelkasten method**](the-zettelkasten-method.md)\*\*\*\*
+* \*\*\*\*[**Building blocks of a Zettelkasten**](building-blocks-of-a-zettelkasten.md)\*\*\*\*
+* \*\*\*\*[**Structuring individual Zettels** ](structuring-individual-zettels.md)\*\*\*\*
 
-{% page-ref page="building-blocks-of-a-zettelkasten.md" %}
-
-{% page-ref page="structuring-individual-zettels.md" %}
-
-**SOURCE:**
+**Source:**
 
 \*\*\*\*[**How to Take Smart Notes**](https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017)\*\*\*\*
 

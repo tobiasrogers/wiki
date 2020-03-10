@@ -11,11 +11,11 @@ Simo's meeting has a set agenda to help her find focus and clarify her objective
 5. Make any adjustments to your calendar to better reflect your priorities
 6. Note any priority adjustments that impact or need to be communicated to your team
 
-**RELATED:** 
+**Related:** 
 
-{% page-ref page="finding-focus-on-a-project.md" %}
+* \*\*\*\*[**Finding focus on a project**](finding-focus-on-a-project.md)\*\*\*\*
 
-**SOURCE:** 
+**Source:** 
 
 \*\*\*\*[**How Facebook's VP of Product Finds Focus and Creates Conditions for Intentional Work**](https://firstround.com/review/how-facebooks-vp-of-product-finds-focus-and-creates-conditions-for-intentional-work/)\*\*\*\*
 
