@@ -10,7 +10,11 @@ Taking its name from the historical belief that all swans were white until the f
 
 > A small number of Black Swans explain almost everything in our world, from the success of ideas and religions, to the dynamics of historical events, to elements of our own personal lives. Ever since we left the Pleistocene, some ten millennia ago, the effect of these Black Swans has been increasing. It started accelerating during the industrial revolution, as the world started getting more complicated, while ordinary events, the ones we study and discuss and try to predict from reading the newspapers, have become increasingly inconsequential.
 
-Black Swan logic makes what you don't know far more relevant than what you do know. 
+Black Swan logic makes what you don't know far more relevant than what you do know. There are two ways to approach phenomena; leave aside outliers and study ordinary cases or first consider extremes, especially if they carry an extraordinary cumulative effect \(the Black Swans\). 
+
+As Taleb continues: 
+
+> If you want to get an idea of a friend's temperament, ethics, and personal elegance, you need to look at him under the tests of severe circumstances, not under the regular rosy glow of daily life.
 
 **Source:** 
 
