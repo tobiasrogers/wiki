@@ -1,4 +1,4 @@
-# Introduction
+# Intro
 
 Hi! I'm [**Toby Rogers**](https://tobyrogers.pm/). Welcome to my personal [**digital garden**](digital-gardens.md). This whole site probably doesn't make a lot of sense if you've found your way here by accident, so here's a bit of context. 
 
