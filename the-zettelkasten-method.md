@@ -1,22 +1,16 @@
 # The Zettelkasten method
 
-_**The Zettelkasten method**_ _is a knowledge management system made popular by German sociologist Niklas Luhmann. From the German for "slip box", a Zettelkasten is a semi-structured collection of interlinked notes originally stored as index cards in a cabinet._ 
+The Zettelkasten method is a knowledge management system developed by German social scientist [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann). Translated simply as "slip box", the concept behind Zettelkasten is to create an archive of notes where each individual note contains one single idea as concisely as possible and links to all other related notes.
 
-The basic principle of the Zettelkasten method is to store individual ideas in small-ish packets \(e.g. one idea or concept per note\) and create hyperlinks between related ideas. 
+By linking individual notes based on the ideas captured within them instead of grouping them by arbitrary categories, it's possible to build a hugely powerful "thinking tool" to support your creative work. 
 
-Rather than having predetermined categories, notes in a Zettelkasten are stored in a loose structure \(e.g. by date, title or ID order\) that encourages "relatedness" to serendipitously emerge as ideas are interacted with. 
+### **Related notes:** 
 
-**RELATED:**
-
-{% page-ref page="building-blocks-of-a-zettelkasten.md" %}
-
-{% page-ref page="structuring-individual-zettels.md" %}
-
-{% page-ref page="four-kinds-of-notes.md" %}
-
-**SOURCE:**
-
-[**Create a Zettelkasten for your Notes to Improve Writing and Thinking**](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)\*\*\*\*
+{% page-ref page="individual-notes-should-be-atomic.md" %}
 
 
+
+\*\*\*\*
+
+ 
 

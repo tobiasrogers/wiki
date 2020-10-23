@@ -1,20 +1,10 @@
----
-description: 'Welcome to my online, open source zettelkasten'
----
+# Introduction
 
-# Hello
+Hi! I'm [**Toby Rogers**](https://tobyrogers.pm/). Welcome to my personal [**digital garden**](digital-gardens.md). This whole site probably doesn't make a lot of sense if you've found your way here by accident, so here's a bit of context. 
 
-## Why am I doing this?
+I've been capturing my thoughts and ideas in various note-taking tools for years, but I've never really put them to good use. I've been a victim of [**the collector's fallacy**](the-collectors-fallacy.md) and have built up a huge archive of digital information that's gathering virtual dust. 
 
-I've recently become interested in creating a digital Zettelkasten I can use to supercharge future projects. Instead of keeping everything to myself in my notes app, I think there's real value in making my thinking public. 
+After reading about [**The Zettelkasten method**](https://nesslabs.com/mind-garden) and stumbling across [**Andy Matuschak's working notes**](https://notes.andymatuschak.org/About_these_notes), I decided to try and re-ignite my note-taking by building my own knowledge management system using the same ideas. I initially set up my slip box in Evernote, but I've decided to make it public via this Gitbook-powered site. Why? Because I'm a firm believer in the value of [**working with the garage door up**](working-with-the-garage-door-up.md) ****and inviting feedback into the creative process. 
 
-[Brett Bivens](https://twitter.com/brettbivens) talks a lot about [creative compounding and "the digital Bannister effect"](https://twitter.com/brettbivens/status/1167411739153113090) which applies to knowledge as much as it does to sports. By making my learning public, I'm hoping I can accelerate my personal growth in a similar way. 
-
-{% embed url="https://twitter.com/brettbivens/status/1167411739153113090" %}
-
-## Who is this for?
-
-Really, this is a place for me to curate and evolve my knowledge, and make it shareable. Some of it probably won't make sense to everyone, but if other people get some value out of it, that's great. 
-
-I've unashamedly borrowed parts of the structure and layout for this wiki from [brendex](https://ltkmn.gitbook.io/brendex/) and [Nikita Voloboev](https://twitter.com/nikitavoloboev)'s [Everything I know](https://wiki.nikitavoloboev.xyz/). Make sure you check them out. 
+The notes on this site are living [**packets of value**](intermediate-packets-are-the-mvps-of-knowledge-work.md) that I'm using to create other content, but if other people find them useful then that's okay too. 
 
